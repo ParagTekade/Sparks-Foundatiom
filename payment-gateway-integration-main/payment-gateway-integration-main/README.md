@@ -14,9 +14,9 @@
 ## Screenshots
 ![Example screenshot](https://github.com/ParagTekade/Sparks-Foundatiom/blob/9cde895eef2063777a5b43b24801129d3740453d/payment-gateway-integration-main/payment-gateway-integration-main/sparks%201.png)<br>
 
-![Example screenshot](./payment-gateway-integration-main/spark2.png)<br>
+![Example screenshot](https://github.com/ParagTekade/Sparks-Foundatiom/blob/9cde895eef2063777a5b43b24801129d3740453d/payment-gateway-integration-main/payment-gateway-integration-main/sparks%202.png)<br>
 
-![Example screenshot](./payment-gateway-integration-main/spark3.png)
+![Example screenshot](https://github.com/ParagTekade/Sparks-Foundatiom/blob/9cde895eef2063777a5b43b24801129d3740453d/payment-gateway-integration-main/payment-gateway-integration-main/sparks%203.png)
 
 ## Technologies
 * HTML5
